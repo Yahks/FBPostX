@@ -4,8 +4,8 @@ Automate Facebook Mass Posting with Precision & Ease.
 
 Automate Facebook posting **across multiple accounts** and groups with smart scheduling and human-like behavior.
 
-![Stars](https://img.shields.io/github/stars/yahks/fbpostx?style=social)
-![License](https://img.shields.io/github/license/yahks/fbpostx)
+![Stars](https://img.shields.io/github/stars/yahks/FBPostX?style=social)
+![License](https://img.shields.io/github/license/yahks/FBPostX)
 
 ## 💸 For Sale – $100 USD
 
