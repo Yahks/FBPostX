@@ -1,73 +1,47 @@
-🚀 FBPostX
-Automate Facebook Mass Posting with Precision & Ease.
-# 🤖 FBPostX - Facebook Group Mass Poster Bot
+# FBPostX
 
-Automate Facebook posting **across multiple accounts** and groups with smart scheduling and human-like behavior.
+Automate Facebook posting across multiple accounts and groups with smart scheduling and human-like behavior.
 
 ![Stars](https://img.shields.io/github/stars/yahks/FBPostX?style=social)
-![License](https://img.shields.io/github/license/yahks/FBPostX)
-
-## 💸 For Sale – $100 USD
-
-🔹 **100% working** Facebook group posting automation.  
-🔹 **Multiple accounts** login supported.  
-🔹 **Posts or comments** to all joined groups automatically.  
-🔹 Secure and customizable.  
-🔹 Telegram support included
-
-✨ Features
-🌀 Bulk Post to Multiple Groups & Pages
-Automatically post content to hundreds of Facebook groups and pages in seconds.
-
-🧠 Smart Scheduling
-Customize posting times with delay intervals to bypass spam filters and mimic human behavior.
-
-📷 Media Support
-Supports image, link, and plain text posting—perfect for promotions, announcements, or engagement.
-
-🔒 Login Methods
-Supports Facebook login via session cookie, username/password, or access token (with 2FA support).
-
-📊 Post Logs & Status Tracking
-View successful and failed posts with timestamps and detailed error messages.
-
-⚙️ Highly Configurable
-Add custom captions, rotate hashtags, randomize posting order, and more.
-
-🖥️ Cross-Platform Automation
-Works on Windows, macOS, and Linux with Selenium or Puppeteer.
-
-🧩 Developer Friendly
-Easily modify and extend the bot's behavior to fit your workflow. Built with Python (or Node.js) and fully open-source.
-
-📦 for Installation and purchase
-
-💰 Purchase Instructions
-💵 Price: $100 one-time.
-
-📲 Telegram Contact: @yahks2
-
-✅ You will get a test/demo before purchase.
-
-⭐ Once this repository hits 100 GitHub Stars, the full repo will be listed for sale here!
-
-🙌 Support
-For custom versions or automation requests, contact me directly on Telegram @yahks2.
-
 
 ---
 
-### ✅ What’s Included:
-- Fully editable.
-- Telegram contact linked.
-- Clear selling condition (100 stars).
-- Easy configuration structure.
+## For Sale — $100
 
-If you want, I can also help with:
-- Uploading preview images.
-- Creating a `.zip` or release version for buyers.
-- Writing the bot’s code docs for buyers only.
+- 100% working Facebook group posting automation
+- Multiple account login supported
+- Posts and comments to all joined groups automatically
+- Smart delay scheduling to avoid spam detection
+- Image, link, and plain text posting support
+- Session cookie, username/password, and 2FA login methods
+- Post logs with success/failure tracking per group
+- Works on Windows, macOS, and Linux
+- Full Telegram support after purchase
 
-Want that now?
+**You get a live demo before buying.**
 
+Contact: [@yahks2](https://t.me/yahks2) on Telegram
 
+---
+
+## How It Works
+
+```
+1. Add your Facebook accounts
+2. Set your message, image, or link
+3. Run the bot
+4. It logs in, finds your groups, and posts to each one
+```
+
+---
+
+## Built With
+
+Python · Selenium · Facebook Web
+
+---
+
+## Disclaimer
+
+For educational and marketing purposes only.
+Use responsibly — excessive posting may trigger Facebook's spam filters.
